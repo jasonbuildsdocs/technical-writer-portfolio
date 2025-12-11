@@ -38,5 +38,5 @@ All samples below demonstrate a moderately technical writing style appropriate f
 I create documentation that empowers users, reduces friction, and improves product adoption. My background spans high-growth environments and regulated industries, where clarity, accuracy, and structured content systems are essential. I’m passionate about making complex tools easy to understand and enjoyable to learn.
 
 **GitHub:** https://github.com/jasonbuildsdocs  
-**Contact:** [your email here]
+**Contact:** jason.b@greenjayinnovations.com
 
